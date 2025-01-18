@@ -139,7 +139,7 @@ body {
   height: 100svh;
   display: flex;
   align-items: flex-end;
-  background-image: url('/images/contact.png');
+  background-image: url('images/contact.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -285,7 +285,7 @@ body {
 .projects {
   width: 100%;
   height: 100svh;
-  background-image: url('/images/projects.png');
+  background-image: url('images/projects.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -698,7 +698,7 @@ h2 {
   right: 0;
   top: 200svh;
   z-index: -1;
-  background-image: url('/images/about.png');
+  background-image: url('images/about.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -796,15 +796,15 @@ h2 {
 
 
   .contact {
-    background-image: url('/images/contact-min.jpg');
+    background-image: url('images/contact-min.jpg');
   }
 
   .projects {
-    background-image: url('/images/projects-min.jpg');
+    background-image: url('images/projects-min.jpg');
   }
 
   .about {
-    background-image: url('/images/about-min.jpg');
+    background-image: url('images/about-min.jpg');
   }
 }
 
