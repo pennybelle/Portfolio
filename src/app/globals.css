@@ -139,7 +139,7 @@ body {
   height: 100svh;
   display: flex;
   align-items: flex-end;
-  background-image: url('/contact.png');
+  background-image: url('/Portfolio/images/contact.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -285,7 +285,7 @@ body {
 .projects {
   width: 100%;
   height: 100svh;
-  background-image: url('/projects.png');
+  background-image: url('/Portfolio/images/projects.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -698,7 +698,7 @@ h2 {
   right: 0;
   top: 200svh;
   z-index: -1;
-  background-image: url('/about.png');
+  background-image: url('/Portfolio/images/about.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center, center;
@@ -796,15 +796,15 @@ h2 {
 
   src
   .contact {
-    background-image: url('/contact-min.jpg');
+    background-image: url('/Portfolio/images/contact-min.jpg');
   }
 
   .projects {
-    background-image: url('/projects-min.jpg');
+    background-image: url('/Portfolio/images/projects-min.jpg');
   }
 
   .about {
-    background-image: url('/about-min.jpg');
+    background-image: url('/Portfolio/images/about-min.jpg');
   }
 }
 
