@@ -39,8 +39,8 @@ function App() {
       <div className='snip'>
         <div className='contact snap' id='contact'>
           <div className='landing'>
-            <img src='/topWave.png' className='wave topW'/>
-            <img src='/bottomWave.png' className='wave bottomW'/>
+            <img src='/Portfolio/images/topWave.png' className='wave topW'/>
+            <img src='/Portfolio/images/bottomWave.png' className='wave bottomW'/>
             <div className='padding'></div>
             <h1 className='landingText name'>Michelle</h1>
             <h1 className='landingText name lastName'>Ferris</h1>
@@ -50,7 +50,7 @@ function App() {
       </div>
       
       <div className='projects snap page' id='projects'>
-        <img src='/flatTopWave.png' className='flatTopWave' />
+        <img src='/Portfolio/images/flatTopWave.png' className='flatTopWave' />
             <Window style='main abs'>
               <div className='titleContent'>
                 <div>
@@ -70,7 +70,7 @@ function App() {
       </div>
 
       <div className='seperator'></div>
-      <img src='/topWave.png' className='waveSeperator' />
+      <img src='/Portfolio/images/topWave.png' className='waveSeperator' />
 
       <div className='aboutMe snap' id='about'>
         <h1 className='aboutTitle'>About Me</h1>
