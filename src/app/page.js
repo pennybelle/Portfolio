@@ -20,7 +20,7 @@ function App() {
   return (
     <div className='grid'>
       <div className='navbar snap'>
-        <img src='/ChiStudios.png' className='navTitle'/>
+        <img src='/Portfolio/images/ChiStudios.png' className='navTitle'/>
         <div className='navBtns'>
           <a href='#contact'>Home</a>
           <a href='#projects'>Projects</a>
